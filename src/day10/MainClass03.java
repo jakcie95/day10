@@ -7,18 +7,18 @@ public class MainClass03 {
 		TestClass03 t01 = new TestClass03();
 			
 		String s =t01.test();
-		System.out.println("¸®ÅÏ : "+s);
+		System.out.println("ë¦¬í„´ : "+s);
 		
 		
 		Scanner sc = new Scanner(System.in);
 		int num1, num2;
-		System.out.println("¼ö ÀÔ·Â");
+		System.out.println("ìˆ˜ ì…ë ¥");
 		num1 = sc.nextInt();
-		System.out.println("¼ö ÀÔ·Â");
+		System.out.println("ìˆ˜ ì…ë ¥");
 		num2 = sc.nextInt();
 		
 		int ss = t01.sumFunc(num1, num2);
-		System.out.println("µÎ ¼öÀÇ ÇÕ : " + ss);
+		System.out.println("ë‘ ìˆ˜ì˜ í•© : " + ss);
 	}
 }
 

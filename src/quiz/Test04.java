@@ -8,11 +8,11 @@ public ArrayList input() {
 	ArrayList arr = new ArrayList();
 	
 	int value;
-	System.out.println("¼ö ÀÔ·Â");
+	System.out.println("ìˆ˜ ìž…ë ¥");
 	value = sc.nextInt();
 	arr.add(value);
 	
-	System.out.println("¼ö ÀÔ·Â");
+	System.out.println("ìˆ˜ ìž…ë ¥");
 	arr.add(sc.nextInt());
 	return arr;
 	

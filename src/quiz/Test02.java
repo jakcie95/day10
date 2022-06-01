@@ -5,16 +5,16 @@ import java.util.Scanner;
 public class Test02 {
 public String[] input() {
 	Scanner sc = new Scanner(System.in);
-	String[] nameArr = new String[3]; //±æÀÌ 3 ¹è¿­ »ı¼º
+	String[] nameArr = new String[3]; //ê¸¸ì´ 3 ë°°ì—´ ìƒì„±
 	for(int i = 0; i<nameArr.length; i++) {
-		System.out.println(i+".ÀÌ¸§ ÀÔ·Â");
+		System.out.println(i+".ì´ë¦„ ì…ë ¥");
 		nameArr[i] = sc.next();
 	}	
 	return nameArr;
 }
 	
 public void print(String[] nameArr) {
-	System.out.println("====ÀÌ¸§ Ãâ·Â ====");
+	System.out.println("====ì´ë¦„ ì¶œë ¥ ====");
 	for(int i=0; i<nameArr.length; i++) {
 		System.out.println(i+"."+nameArr[i]);
 }

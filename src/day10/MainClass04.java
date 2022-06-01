@@ -1,9 +1,9 @@
 package day10;
 /* 
- ¿À¹ö·Îµù
- - µ¿ÀÏÇÑ ÀÌ¸§ÀÇ ¸Þ¼Òµå¸¦ ¸¸µå´Â°Í
- - ÀÌ¸§ÀÌ °°Àº ¸Þ¼Òµå¸¦ ±¸º°ÇÏ±â À§ÇØ¼­´Â ¸Å°³º¯¼ö¿¡ µû¶ó ±¸ºÐÇÑ´Ù
- - ¸Å°³º¯¼öÀÇ °³¼ö ¶Ç´Â Å¸ÀÔÀÌ ¼­·Î ´Ù¸£¸é ´Ù¸¥ ¸Þ¼Òµå·Î ÀÎ½Ä
+ ì˜¤ë²„ë¡œë”©
+ - ë™ì¼í•œ ì´ë¦„ì˜ ë©”ì†Œë“œë¥¼ ë§Œë“œëŠ”ê²ƒ
+ - ì´ë¦„ì´ ê°™ì€ ë©”ì†Œë“œë¥¼ êµ¬ë³„í•˜ê¸° ìœ„í•´ì„œëŠ” ë§¤ê°œë³€ìˆ˜ì— ë”°ë¼ êµ¬ë¶„í•œë‹¤
+ - ë§¤ê°œë³€ìˆ˜ì˜ ê°œìˆ˜ ë˜ëŠ” íƒ€ìž…ì´ ì„œë¡œ ë‹¤ë¥´ë©´ ë‹¤ë¥¸ ë©”ì†Œë“œë¡œ ì¸ì‹
  */
 public class MainClass04 {
 public static void main(String[] args) {

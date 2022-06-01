@@ -1,13 +1,13 @@
 package day10;
 
 public class TestClass04 {
-	//¸Ş¼ÒµåÀÇ ÀÌ¸§ÀÌ °°Àº°æ¿ì ¸Å°³º¯¼ö¿¡ µû¶ó ´Ù¸£°Ô ±¸ºĞ
+	//ë©”ì†Œë“œì˜ ì´ë¦„ì´ ê°™ì€ê²½ìš° ë§¤ê°œë³€ìˆ˜ì— ë”°ë¼ ë‹¤ë¥´ê²Œ êµ¬ë¶„
 	public void sumFunc(int a, int b) {
 		System.out.println("int, int");
 		System.out.println(a+b);
 	}
 	public void sumFunc(int a) {
-		System.out.println("a°ª : "+a);
+		System.out.println("aê°’ : "+a);
 	}
 	public void sumFunc(int a, double b) {
 		System.out.println("int, double");

@@ -6,13 +6,13 @@ public class Test01 {
 	public String input(){
 		Scanner sc = new Scanner(System.in);
 		String name;
-		System.out.println("ÀÌ¸§ ÀÔ·Â : ");
+		System.out.println("ì´ë¦„ ì…ë ¥ : ");
 		name =sc.next();
 		return name;
 
 	}
 	public void print(String name) {
-		System.out.println("´ç½ÅÀÇ ÀÌ¸§Àº " + name);
+		System.out.println("ë‹¹ì‹ ì˜ ì´ë¦„ì€ " + name);
 	}
 
 }

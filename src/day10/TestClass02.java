@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class TestClass02 {
 	public void sumFunc(int num1, int num2) {
 		int sum = num1 +num2;
-		System.out.println("µÎ ¼öÀÇ ÇÕ : "+sum);
+		System.out.println("ë‘ ìˆ˜ì˜ í•© : "+sum);
 
 	}
 	public void test(int n, String s) {
-		System.out.println(n+s+" : testÈ£Ãâ");
+		System.out.println(n+s+" : testí˜¸ì¶œ");
 	}
 }
 

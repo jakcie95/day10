@@ -6,9 +6,9 @@ public class TestClass03 {
 		return sum;
 	}
 	
-	public String test() {//return À» ¾µ¶§ ¹İÈ¯Å¸ÀÔ°ú return°ªÀÇ Å¸ÀÔÀ» ÀÏÄ¡ ½ÃÅ²´Ù
-		System.out.println("test È£Ãâ");
-		return "12345"; //È£ÃâÇÑ Áö¿ªÀ¸·Î return
+	public String test() {//return ì„ ì“¸ë•Œ ë°˜í™˜íƒ€ì…ê³¼ returnê°’ì˜ íƒ€ì…ì„ ì¼ì¹˜ ì‹œí‚¨ë‹¤
+		System.out.println("test í˜¸ì¶œ");
+		return "12345"; //í˜¸ì¶œí•œ ì§€ì—­ìœ¼ë¡œ return
 	}
 }
 

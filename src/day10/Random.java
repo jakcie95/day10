@@ -8,9 +8,9 @@ public class Random {
 			System.out.println(ran);
 			
 		}
-	// ·Î¶Ç ÇÁ·Î±×·¥ ¸¸µé±â
-	// ·£´ıÇÑ ¼ıÀÚ 1~45±îÁöÀÇ ¼ıÀÚÁß Áßº¹µÇÁö ¾Ê´Â 6°³ÀÇ ¼ıÀÚ
-		System.out.println("ÀÌ¹øÁÖ ·Î¶Ç ¹øÈ£");
+	// ë¡œë˜ í”„ë¡œê·¸ë¨ ë§Œë“¤ê¸°
+	// ëœë¤í•œ ìˆ«ì 1~45ê¹Œì§€ì˜ ìˆ«ìì¤‘ ì¤‘ë³µë˜ì§€ ì•ŠëŠ” 6ê°œì˜ ìˆ«ì
+		System.out.println("ì´ë²ˆì£¼ ë¡œë˜ ë²ˆí˜¸");
 		for(int r =0; r < 6; r++) {
 			int lotto = (int)(Math.random()*45);
 			System.out.println(lotto);

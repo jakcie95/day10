@@ -6,14 +6,14 @@ public class Test03 {
 public int[] input() {
 	Scanner sc = new Scanner(System.in);
 	int[] arr = new int[2];
-	System.out.println("¼ö ÀÔ·Â : ");
+	System.out.println("ìˆ˜ ì…ë ¥ : ");
 	arr[0] = sc.nextInt();
-	System.out.println("¼ö ÀÔ·Â : ");
+	System.out.println("ìˆ˜ ì…ë ¥ : ");
 	arr[1]= sc.nextInt();
 	return arr;
 }
 public int sum(int[] a) {
-	return a[0] +a[1]; //Á¤¼öÇüÅÂ
+	return a[0] +a[1]; //ì •ìˆ˜í˜•íƒœ
 	
 }
 public void print(int a, int b, int c) {

@@ -7,13 +7,13 @@ public static void main(String[] args) {
 	TestClass02 t01 = new TestClass02();
 	int n = 1000;
 	
-	t01.test(1000, "¾È³çÇÏ¼¼¿ä");//()¾ÈÀÇ °ªÀº ¸Ş¼ÒµåÀÇ ¾Æ±Ô¸ÕÆ®¿¡ °ªÀ» º¸³¿
+	t01.test(1000, "ì•ˆë…•í•˜ì„¸ìš”");//()ì•ˆì˜ ê°’ì€ ë©”ì†Œë“œì˜ ì•„ê·œë¨¼íŠ¸ì— ê°’ì„ ë³´ëƒ„
 	
 	Scanner sc = new Scanner(System.in);
 	int num1, num2;
-	System.out.println("¼ö ÀÔ·Â");
+	System.out.println("ìˆ˜ ì…ë ¥");
 	num1 = sc.nextInt();
-	System.out.println("¼ö ÀÔ·Â");
+	System.out.println("ìˆ˜ ì…ë ¥");
 	num2 = sc.nextInt();
 	
 	t01.sumFunc(num1, num2);
